@@ -1,0 +1,2616 @@
+{
+ "generatedAt": "2026-11-14T03:20:23.549Z",
+ "base": "photos/",
+ "places": {
+  "dinh-quan-lan": {
+   "src": "photos/places/dinh-quan-lan.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-va-den-trau-lo": {
+   "src": "photos/places/dinh-va-den-trau-lo.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-binh-dong": {
+   "src": "photos/places/dinh-binh-dong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-long-thanh": {
+   "src": "photos/places/dinh-long-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-tan-ngai": {
+   "src": "photos/places/dinh-tan-ngai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bai-da-co-sa-pa": {
+   "src": "photos/places/bai-da-co-sa-pa.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "deo-lung-lo": {
+   "src": "photos/places/deo-lung-lo.jpg",
+   "credit": "Ảnh: jihadv / CC BY 2.0"
+  },
+  "deo-ma-pi-leng": {
+   "src": "photos/places/deo-ma-pi-leng.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dong-ngao": {
+   "src": "photos/places/dong-ngao.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dong-tien": {
+   "src": "photos/places/dong-tien.jpg",
+   "credit": "Ảnh: Kien1980v ( thảo luận ) / Public domain"
+  },
+  "ho-thac-ba": {
+   "src": "photos/places/ho-thac-ba.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ruong-bac-thang-hoang-su-phi": {
+   "src": "photos/places/ruong-bac-thang-hoang-su-phi.jpg",
+   "credit": "Ảnh: NKSTTSSHNVN / CC BY-SA 4.0"
+  },
+  "ruong-bac-thang-mu-cang-chai": {
+   "src": "photos/places/ruong-bac-thang-mu-cang-chai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-ban-gioc": {
+   "src": "photos/places/thac-ban-gioc.jpg",
+   "credit": "Ảnh: Lê Minh Phát / CC BY 2.0"
+  },
+  "thac-pac-ban": {
+   "src": "photos/places/thac-pac-ban.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dong-hoa-lu": {
+   "src": "photos/places/dong-hoa-lu.jpg",
+   "credit": "Ảnh: Kien1980v at Vietnamese Wikipedia / Public domain"
+  },
+  "dong-thien-ton": {
+   "src": "photos/places/dong-thien-ton.jpg",
+   "credit": "Ảnh: Kien1980v at Vietnamese Wikipedia / Public domain"
+  },
+  "nui-canh-dieu": {
+   "src": "photos/places/nui-canh-dieu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-non-nuoc": {
+   "src": "photos/places/nui-non-nuoc.jpg",
+   "credit": "Ảnh: TruongHuynb ( thảo luận ) / Public domain"
+  },
+  "thac-dray-kpor": {
+   "src": "photos/places/thac-dray-kpor.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-gougah": {
+   "src": "photos/places/thac-gougah.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-lien-khuong": {
+   "src": "photos/places/thac-lien-khuong.jpg",
+   "credit": "Ảnh: Tran Trong Nhan / CC BY-SA 4.0"
+  },
+  "thac-prenn": {
+   "src": "photos/places/thac-prenn.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vinh-nha-trang": {
+   "src": "photos/places/vinh-nha-trang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vinh-xuan-dai": {
+   "src": "photos/places/vinh-xuan-dai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cho-long-hoa": {
+   "src": "photos/places/cho-long-hoa.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-da-dung": {
+   "src": "photos/places/nui-da-dung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-quoc-gia-u-minh-thuong": {
+   "src": "photos/places/vuon-quoc-gia-u-minh-thuong.jpg",
+   "credit": "Ảnh: Mongnt / CC BY-SA 3.0"
+  },
+  "chua-thanh": {
+   "src": "photos/places/chua-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-cam": {
+   "src": "photos/places/den-cam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-ky-cung": {
+   "src": "photos/places/den-ky-cung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-mau-lao-cai": {
+   "src": "photos/places/den-mau-lao-cai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-bo-da": {
+   "src": "photos/places/chua-bo-da.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-dau": {
+   "src": "photos/places/chua-dau.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-nhat-tru": {
+   "src": "photos/places/chua-nhat-tru.jpg",
+   "credit": "Ảnh: Kien1980v at Vietnamese Wikipedia / Public domain"
+  },
+  "chua-quynh-lam-dong-trieu": {
+   "src": "photos/places/chua-quynh-lam-dong-trieu.jpg",
+   "credit": "Ảnh: Yeudongtrieu / CC BY-SA 4.0"
+  },
+  "chua-tao-sach": {
+   "src": "photos/places/chua-tao-sach.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-thanh-mai": {
+   "src": "photos/places/chua-thanh-mai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-tran-quoc": {
+   "src": "photos/places/chua-tran-quoc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-tu-van": {
+   "src": "photos/places/chua-tu-van.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-va-dong-ban-long": {
+   "src": "photos/places/chua-va-dong-ban-long.jpg",
+   "credit": "Ảnh: Bùi Thế Tâm / CC BY-SA 3.0"
+  },
+  "den-cua-ong": {
+   "src": "photos/places/den-cua-ong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-lang": {
+   "src": "photos/places/den-lang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-thanh-nguyen": {
+   "src": "photos/places/den-thanh-nguyen.jpg",
+   "credit": "Ảnh: Kien1980v ( thảo luận ) / Public domain"
+  },
+  "den-tranh": {
+   "src": "photos/places/den-tranh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-vua-dinh-tien-hoang": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-bang": {
+   "src": "photos/places/dinh-bang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-tra-co": {
+   "src": "photos/places/dinh-tra-co.jpg",
+   "credit": "Ảnh: Bùi Thế Tâm / CC BY-SA 4.0"
+  },
+  "den-bach-ma": {
+   "src": "photos/places/den-bach-ma.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-cuong": {
+   "src": "photos/places/den-cuong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tho-le-hoan": {
+   "src": "photos/places/den-tho-le-hoan.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tho-va-lang-mo-le-khoi": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tho-va-mo-duc-thanh-hau": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tho-va-mo-ho-huu-nhan": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tho-va-mo-ngo-sy-vinh": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tho-va-mo-ngo-tri-hoa": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tho-va-mo-nguyen-tuan-thien": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-va-mo-quan-cong-nguyen-ba-lai": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nha-tho-va-mo-nguyen-cong-tru": {
+   "src": "photos/places/nha-tho-va-mo-nguyen-cong-tru.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nha-tho-va-mo-nguyen-thuc-tu": {
+   "src": "photos/places/nha-tho-va-mo-nguyen-cong-tru.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nha-tho-va-mo-nguyen-tri-phuong": {
+   "src": "photos/places/nha-tho-va-mo-nguyen-cong-tru.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nha-tho-va-phan-mo-danh-nhan-dao-huu-ich": {
+   "src": "photos/places/nha-tho-va-mo-nguyen-cong-tru.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thanh-co-vinh": {
+   "src": "photos/places/thanh-co-vinh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "danh-lam-thang-canh": {
+   "src": "photos/places/danh-lam-thang-canh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "danh-lam-thang-canh-ban-than-hon-mang-hon-dua": {
+   "src": "photos/places/danh-lam-thang-canh-ban-than-hon-mang-hon-dua.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tho-truong-dinh": {
+   "src": "photos/places/den-tho-truong-dinh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-lac-giao": {
+   "src": "photos/places/dinh-lac-giao.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-phu-cang": {
+   "src": "photos/places/dinh-phu-cang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-cam-ly": {
+   "src": "photos/places/thac-cam-ly.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-binh-hoa": {
+   "src": "photos/places/dinh-binh-hoa.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-minh-huong-gia-thanh": {
+   "src": "photos/places/dinh-minh-huong-gia-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-tan-lan": {
+   "src": "photos/places/dinh-tan-lan.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-thang-tam": {
+   "src": "photos/places/dinh-thang-tam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-thong-tay-hoi": {
+   "src": "photos/places/dinh-thong-tay-hoi.jpg",
+   "credit": "Ảnh: Xiaoao / CC BY-SA 3.0"
+  },
+  "mieu-nhi-phu": {
+   "src": "photos/places/mieu-nhi-phu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thanh-co-bien-hoa": {
+   "src": "photos/places/thanh-co-bien-hoa.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "van-mieu-tran-bien": {
+   "src": "photos/places/van-mieu-tran-bien.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-giong-thanh": {
+   "src": "photos/places/chua-giong-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cong-than-mieu-vinh-long": {
+   "src": "photos/places/cong-than-mieu-vinh-long.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tho-quan-co-tran-van-thanh": {
+   "src": "photos/places/den-tho-quan-co-tran-van-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-binh-hoa-2": {
+   "src": "photos/places/dinh-binh-hoa.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-binh-thuy": {
+   "src": "photos/places/dinh-binh-thuy.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-dinh-yen": {
+   "src": "photos/places/dinh-dinh-yen.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-phu-huu": {
+   "src": "photos/places/dinh-phu-huu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-tan-hoa": {
+   "src": "photos/places/dinh-tan-hoa.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-tan-thach": {
+   "src": "photos/places/dinh-tan-thach.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-vinh-nguon": {
+   "src": "photos/places/dinh-vinh-nguon.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "suoi-le-nin": {
+   "src": "photos/places/suoi-le-nin.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-yen-lap": {
+   "src": "photos/places/ho-yen-lap.jpg",
+   "credit": "Ảnh: Handyhuy / CC BY-SA 3.0"
+  },
+  "nui-bai-tho": {
+   "src": "photos/places/nui-bai-tho.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-phu-ninh": {
+   "src": "photos/places/ho-phu-ninh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-mai": {
+   "src": "photos/places/thac-mai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "hon-dau": {
+   "src": "photos/places/hon-dau.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "lang-gom-phu-lang": {
+   "src": "photos/places/lang-gom-phu-lang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-ta-cu": {
+   "src": "photos/places/nui-ta-cu.jpg",
+   "credit": "Ảnh: Lê Thy at vi.wikipedia / Public domain"
+  },
+  "chua-go-ken": {
+   "src": "photos/places/chua-go-ken.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cua-khau-moc-bai": {
+   "src": "photos/places/cua-khau-moc-bai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-mo-so": {
+   "src": "photos/places/nui-mo-so.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-sam": {
+   "src": "photos/places/nui-sam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-mau-au-co": {
+   "src": "photos/places/den-mau-au-co.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tranh-2": {
+   "src": "photos/places/den-tranh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-tho-tang": {
+   "src": "photos/places/dinh-tho-tang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cau-ngoi-cho-luong": {
+   "src": "photos/places/cau-ngoi-cho-luong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-ba-da": {
+   "src": "photos/places/chua-ba-da.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-ba-nanh": {
+   "src": "photos/places/chua-ba-nanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-bat-thap": {
+   "src": "photos/places/chua-bat-thap.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-chuong": {
+   "src": "photos/places/chua-chuong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-co-le": {
+   "src": "photos/places/chua-co-le.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-dan": {
+   "src": "photos/places/chua-dan.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-ha": {
+   "src": "photos/places/chua-ha.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-hoe-nhai": {
+   "src": "photos/places/chua-hoe-nhai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-kim-lien": {
+   "src": "photos/places/chua-kim-lien.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-nanh": {
+   "src": "photos/places/chua-nanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-quan-su": {
+   "src": "photos/places/chua-quan-su.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-ba-kieu": {
+   "src": "photos/places/den-ba-kieu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-bach-ma-2": {
+   "src": "photos/places/den-bach-ma.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-ly-quoc-su": {
+   "src": "photos/places/den-ly-quoc-su.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-ngoc-que": {
+   "src": "photos/places/den-ngoc-que.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-noi-binh-da": {
+   "src": "photos/places/den-noi-binh-da.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-va-lang-mo-que-hoa": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "mieu-va-dinh-cao-dai": {
+   "src": "photos/places/mieu-va-dinh-cao-dai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bao-tang-xo-viet-nghe-tinh": {
+   "src": "photos/places/bao-tang-xo-viet-nghe-tinh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-hoang-phuc": {
+   "src": "photos/places/chua-hoang-phuc.jpg",
+   "credit": "Ảnh: Genghiskhan / CC BY-SA 4.0"
+  },
+  "den-tho-va-mo-ngo-phuc-van": {
+   "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "van-mieu-hue": {
+   "src": "photos/places/van-mieu-hue.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bao-tang-quang-trung-va-dien-tho-tay-son": {
+   "src": "photos/places/bao-tang-quang-trung-va-dien-tho-tay-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-co-thach": {
+   "src": "photos/places/chua-co-thach.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-thien-an": {
+   "src": "photos/places/chua-thien-an.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nha-tho-chinh-toa-kon-tum": {
+   "src": "photos/places/nha-tho-chinh-toa-kon-tum.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-bang-an": {
+   "src": "photos/places/thap-bang-an.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-binh-lam": {
+   "src": "photos/places/thap-binh-lam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-canh-tien": {
+   "src": "photos/places/thap-canh-tien.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-phu-loc": {
+   "src": "photos/places/thap-phu-loc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-po-dam": {
+   "src": "photos/places/thap-po-dam.jpg",
+   "credit": "Ảnh: Titô / CC BY-SA 3.0"
+  },
+  "bao-tang-lich-su-thanh-pho-ho-chi-minh": {
+   "src": "photos/places/bao-tang-lich-su-thanh-pho-ho-chi-minh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bao-tang-thanh-pho-ho-chi-minh": {
+   "src": "photos/places/bao-tang-thanh-pho-ho-chi-minh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-giac-lam": {
+   "src": "photos/places/chua-giac-lam.jpg",
+   "credit": "Ảnh: Phan Ba at vi.wikipedia / Public domain"
+  },
+  "chua-giac-vien": {
+   "src": "photos/places/chua-giac-vien.jpg",
+   "credit": "Ảnh: Lưu Ly at Vietnamese Wikipedia / Public domain"
+  },
+  "chua-hoi-khanh": {
+   "src": "photos/places/chua-hoi-khanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-phung-son": {
+   "src": "photos/places/chua-phung-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-ton-thanh": {
+   "src": "photos/places/chua-ton-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nha-hat-thanh-pho-ho-chi-minh": {
+   "src": "photos/places/nha-hat-thanh-pho-ho-chi-minh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-chau-thoi-va-chua-chau-thoi": {
+   "src": "photos/places/nui-chau-thoi-va-chua-chau-thoi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-ang": {
+   "src": "photos/places/chua-ang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-buu-hung": {
+   "src": "photos/places/chua-buu-hung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-nam-nha": {
+   "src": "photos/places/chua-nam-nha.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-ong-bac": {
+   "src": "photos/places/chua-ong-bac.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-tien-chau": {
+   "src": "photos/places/chua-tien-chau.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "van-thanh-mieu-vinh-long": {
+   "src": "photos/places/van-thanh-mieu-vinh-long.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-dai-yem": {
+   "src": "photos/places/thac-dai-yem.jpg",
+   "credit": "Ảnh: ePi.Longo / CC BY-SA 2.0"
+  },
+  "vuon-quoc-gia-xuan-son": {
+   "src": "photos/places/vuon-quoc-gia-xuan-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dao-bach-long-vi": {
+   "src": "photos/places/dao-bach-long-vi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thung-nham": {
+   "src": "photos/places/thung-nham.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-ngu-binh": {
+   "src": "photos/places/nui-ngu-binh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dam-o-loan": {
+   "src": "photos/places/dam-o-loan.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dam-thi-nai": {
+   "src": "photos/places/dam-thi-nai.jpg",
+   "credit": "Ảnh: Lê Thy ( thảo luận ) / CC BY 3.0"
+  },
+  "deo-prenn": {
+   "src": "photos/places/deo-prenn.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-dau-tieng": {
+   "src": "photos/places/ho-dau-tieng.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-tri-an": {
+   "src": "photos/places/ho-tri-an.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-giang-dien": {
+   "src": "photos/places/thac-giang-dien.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bien-ba-dong": {
+   "src": "photos/places/bien-ba-dong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cu-lao-an-binh": {
+   "src": "photos/places/cu-lao-an-binh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "hon-da-bac": {
+   "src": "photos/places/hon-da-bac.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "hon-phu-tu": {
+   "src": "photos/places/hon-phu-tu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "khu-du-lich-gao-giong": {
+   "src": "photos/places/khu-du-lich-gao-giong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "lung-ngoc-hoang": {
+   "src": "photos/places/lung-ngoc-hoang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-chim-bac-lieu": {
+   "src": "photos/places/vuon-chim-bac-lieu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-doi-quan-ba": {
+   "src": "photos/places/nui-doi-quan-ba.jpg",
+   "credit": "Ảnh: Lee Lio / CC BY 2.0"
+  },
+  "ta-phin": {
+   "src": "photos/places/ta-phin.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-cau-may-va-deo-o-quy-ho": {
+   "src": "photos/places/thac-cau-may-va-deo-o-quy-ho.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-tu-hieu": {
+   "src": "photos/places/chua-tu-hieu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dien-hon-chen": {
+   "src": "photos/places/dien-hon-chen.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-linh-phuoc": {
+   "src": "photos/places/chua-linh-phuoc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-ba-ra": {
+   "src": "photos/places/nui-ba-ra.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-chua-chan": {
+   "src": "photos/places/nui-chua-chan.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-xiem-can": {
+   "src": "photos/places/chua-xiem-can.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-boi-khe": {
+   "src": "photos/places/chua-boi-khe.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-dam": {
+   "src": "photos/places/chua-dam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-lang": {
+   "src": "photos/places/chua-lang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-quan-thanh": {
+   "src": "photos/places/den-quan-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-soc": {
+   "src": "photos/places/den-soc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-voi-phuc": {
+   "src": "photos/places/den-voi-phuc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-chem": {
+   "src": "photos/places/dinh-chem.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-tay-dang": {
+   "src": "photos/places/dinh-va-den-trau-lo.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-banh-it": {
+   "src": "photos/places/thap-banh-it.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-vinh-trang": {
+   "src": "photos/places/chua-vinh-trang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bach-moc-luong-tu": {
+   "src": "photos/places/bach-moc-luong-tu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dong-tam-thanh": {
+   "src": "photos/places/dong-tam-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-hoa-binh": {
+   "src": "photos/places/ho-hoa-binh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-mau-son": {
+   "src": "photos/places/nui-mau-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ta-xua": {
+   "src": "photos/places/ta-xua.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thung-lung-muong-hoa": {
+   "src": "photos/places/thung-lung-muong-hoa.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-quoc-gia-tam-dao": {
+   "src": "photos/places/vuon-quoc-gia-tam-dao.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dao-quan-lan": {
+   "src": "photos/places/dao-quan-lan.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dam-van-long": {
+   "src": "photos/places/dam-van-long.jpg",
+   "credit": "Ảnh: TruongHuynb ( thảo luận ) / Public domain"
+  },
+  "vuon-quoc-gia-ba-vi": {
+   "src": "photos/places/vuon-quoc-gia-ba-vi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bai-bien-thuan-an": {
+   "src": "photos/places/bai-bien-thuan-an.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dam-lap-an": {
+   "src": "photos/places/dam-lap-an.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "pha-tam-giang": {
+   "src": "photos/places/pha-tam-giang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-quoc-gia-pu-mat": {
+   "src": "photos/places/vuon-quoc-gia-pu-mat.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dao-binh-ba": {
+   "src": "photos/places/dao-binh-ba.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ghenh-rang-tien-sa": {
+   "src": "photos/places/ghenh-rang-tien-sa.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "hon-rom": {
+   "src": "photos/places/hon-rom.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "hon-tam": {
+   "src": "photos/places/hon-tam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vinh-van-phong": {
+   "src": "photos/places/vinh-van-phong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ao-ba-om": {
+   "src": "photos/places/ao-ba-om.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "canh-dong-muong-thanh": {
+   "src": "photos/places/canh-dong-muong-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cho-bac-ha": {
+   "src": "photos/places/cho-bac-ha.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "y-ty": {
+   "src": "photos/places/y-ty.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "lang-co-duong-lam": {
+   "src": "photos/places/lang-co-duong-lam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "lang-lua-van-phuc": {
+   "src": "photos/places/lang-lua-van-phuc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "pho-hien": {
+   "src": "photos/places/pho-hien.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-huong-tich": {
+   "src": "photos/places/chua-huong-tich.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nghia-trang-truong-son": {
+   "src": "photos/places/nghia-trang-truong-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-quoc-gia-phong-nha-ke-bang": {
+   "src": "photos/places/vuon-quoc-gia-phong-nha-ke-bang.jpg",
+   "credit": "Ảnh: Genghiskhanviet / Public domain"
+  },
+  "ho-lak": {
+   "src": "photos/places/ho-lak.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-tuyen-lam": {
+   "src": "photos/places/ho-tuyen-lam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-dray-nur": {
+   "src": "photos/places/thac-dray-nur.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-quoc-gia-cat-tien": {
+   "src": "photos/places/vuon-quoc-gia-cat-tien.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-thay": {
+   "src": "photos/places/chua-thay.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-hat-mon": {
+   "src": "photos/places/den-hat-mon.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-ly-bat-de-va-lang-mo-cac-vua-nha-ly": {
+   "src": "photos/places/den-ly-bat-de-va-lang-mo-cac-vua-nha-ly.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-phu-dong": {
+   "src": "photos/places/den-phu-dong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-tran-thuong": {
+   "src": "photos/places/den-tran-thuong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "van-mieu-xich-dang": {
+   "src": "photos/places/van-mieu-xich-dang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-cham-duong-long": {
+   "src": "photos/places/thap-cham-duong-long.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-dong-duong": {
+   "src": "photos/places/thap-dong-duong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-hoa-lai": {
+   "src": "photos/places/thap-hoa-lai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-nhan": {
+   "src": "photos/places/thap-nhan.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-po-sah-inu": {
+   "src": "photos/places/thap-po-sah-inu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-doi": {
+   "src": "photos/places/chua-doi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "go-thap": {
+   "src": "photos/places/go-thap.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-vinh-hung": {
+   "src": "photos/places/thap-vinh-hung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dong-nguom-ngao": {
+   "src": "photos/places/dong-ngao.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-nui-coc": {
+   "src": "photos/places/ho-nui-coc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "pu-ta-leng": {
+   "src": "photos/places/pu-ta-leng.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "song-nho-que": {
+   "src": "photos/places/song-nho-que.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bai-chay": {
+   "src": "photos/places/bai-chay.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dao-co-to": {
+   "src": "photos/places/dao-co-to.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "hang-mua": {
+   "src": "photos/places/hang-mua.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-tay": {
+   "src": "photos/places/ho-tay.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "tay-yen-tu": {
+   "src": "photos/places/tay-yen-tu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-quoc-gia-cat-ba": {
+   "src": "photos/places/vuon-quoc-gia-cat-ba.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-quoc-gia-cuc-phuong": {
+   "src": "photos/places/vuon-quoc-gia-cuc-phuong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "lang-co": {
+   "src": "photos/places/lang-co.jpg",
+   "credit": "Ảnh: Vincent Guth / CC BY-SA 2.0"
+  },
+  "pu-luong": {
+   "src": "photos/places/pu-luong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "suoi-ca-cam-luong": {
+   "src": "photos/places/suoi-ca-cam-luong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ban-dao-son-tra": {
+   "src": "photos/places/ban-dao-son-tra.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bau-trang": {
+   "src": "photos/places/bau-trang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cu-lao-cham": {
+   "src": "photos/places/cu-lao-cham.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "deo-hai-van": {
+   "src": "photos/places/deo-hai-van.jpg",
+   "credit": "Ảnh: Viethavvh at Vietnamese Wikipedia / Public domain"
+  },
+  "ly-son": {
+   "src": "photos/places/ly-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "mang-den": {
+   "src": "photos/places/mang-den.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "mui-dien": {
+   "src": "photos/places/mui-dien.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ngu-hanh-son": {
+   "src": "photos/places/ngu-hanh-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thung-lung-tinh-yeu": {
+   "src": "photos/places/thung-lung-tinh-yeu.jpg",
+   "credit": "Ảnh: Thienlt1993 / CC BY-SA 4.0"
+  },
+  "bai-sau": {
+   "src": "photos/places/bai-sau.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "con-dao": {
+   "src": "photos/places/con-dao.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "hon-thom": {
+   "src": "photos/places/hon-thom.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-cam": {
+   "src": "photos/places/nui-cam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "quan-dao-nam-du": {
+   "src": "photos/places/quan-dao-nam-du.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "rung-tram-tra-su": {
+   "src": "photos/places/rung-tram-tra-su.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-quoc-gia-tram-chim": {
+   "src": "photos/places/vuon-quoc-gia-tram-chim.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ban-cat-cat": {
+   "src": "photos/places/ban-cat-cat.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cot-co-lung-cu": {
+   "src": "photos/places/cot-co-lung-cu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "tam-dao": {
+   "src": "photos/places/tam-dao.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "hoi-lim": {
+   "src": "photos/places/hoi-lim.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "lang-gom-bat-trang": {
+   "src": "photos/places/lang-gom-bat-trang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "lang-tranh-dong-ho": {
+   "src": "photos/places/lang-tranh-dong-ho.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cau-hien-luong": {
+   "src": "photos/places/cau-hien-luong.jpg",
+   "credit": "Ảnh: Rolf Müller ( User:Rolfmueller ) / CC BY-SA 3.0"
+  },
+  "dia-dao-vinh-moc": {
+   "src": "photos/places/dia-dao-vinh-moc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "lang-khai-dinh": {
+   "src": "photos/places/lang-khai-dinh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "lang-tu-duc": {
+   "src": "photos/places/lang-tu-duc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-linh-ung": {
+   "src": "photos/places/chua-linh-ung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-xuan-huong": {
+   "src": "photos/places/ho-xuan-huong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-langbiang": {
+   "src": "photos/places/nui-langbiang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-datanla": {
+   "src": "photos/places/thac-datanla.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thac-pongour": {
+   "src": "photos/places/thac-pongour.jpg",
+   "credit": "Ảnh: Original uploader was Tú My at vi.wikipedia / CC BY-SA 3.0"
+  },
+  "vinh-vinh-hy": {
+   "src": "photos/places/vinh-vinh-hy.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bao-tang-chung-tich-chien-tranh": {
+   "src": "photos/places/bao-tang-chung-tich-chien-tranh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "buu-dien-trung-tam-sai-gon": {
+   "src": "photos/places/buu-dien-trung-tam-sai-gon.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "pho-di-bo-nguyen-hue": {
+   "src": "photos/places/pho-di-bo-nguyen-hue.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "toa-thanh-tay-ninh": {
+   "src": "photos/places/toa-thanh-tay-ninh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vuon-quoc-gia-cat-tien-2": {
+   "src": "photos/places/vuon-quoc-gia-cat-tien.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ben-ninh-kieu": {
+   "src": "photos/places/ben-ninh-kieu.jpg",
+   "credit": "Ảnh: Hung190596 / CC BY-SA 4.0"
+  },
+  "thap-binh-son": {
+   "src": "photos/places/thap-binh-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-but-thap": {
+   "src": "photos/places/chua-but-thap.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-con-son": {
+   "src": "photos/places/chua-con-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-dau-2": {
+   "src": "photos/places/chua-dau.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-keo-hanh-thien": {
+   "src": "photos/places/chua-keo-hanh-thien.jpg",
+   "credit": "Ảnh: Kid1485 / Copyrighted free use"
+  },
+  "chua-phat-tich": {
+   "src": "photos/places/chua-phat-tich.jpg",
+   "credit": "Ảnh: Photo taken by vi:User:Casablanca1911 , unknown sculptor(s) / Public domain"
+  },
+  "den-hai-ba-trung": {
+   "src": "photos/places/den-hai-ba-trung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-kiep-bac": {
+   "src": "photos/places/den-kiep-bac.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-ba-trieu": {
+   "src": "photos/places/den-ba-trieu.jpg",
+   "credit": "Ảnh: Mai Trung Dung / Public domain"
+  },
+  "lam-kinh": {
+   "src": "photos/places/lam-kinh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-po-klong-garai": {
+   "src": "photos/places/thap-po-klong-garai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thap-po-nagar": {
+   "src": "photos/places/thap-po-nagar.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cao-nguyen-da-dong-van": {
+   "src": "photos/places/cao-nguyen-da-dong-van.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "deo-o-quy-ho": {
+   "src": "photos/places/thac-cau-may-va-deo-o-quy-ho.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ho-hoan-kiem": {
+   "src": "photos/places/ho-hoan-kiem.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "tam-coc-bich-dong": {
+   "src": "photos/places/dong-tien.jpg",
+   "credit": "Ảnh: Kien1980v ( thảo luận ) / Public domain"
+  },
+  "vinh-lan-ha": {
+   "src": "photos/places/vinh-lan-ha.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dong-phong-nha": {
+   "src": "photos/places/dong-phong-nha.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dong-thien-duong": {
+   "src": "photos/places/dong-thien-duong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "ganh-da-dia": {
+   "src": "photos/places/ganh-da-dia.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "mui-ne": {
+   "src": "photos/places/mui-ne.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "bai-sao": {
+   "src": "photos/places/bai-sao.jpg",
+   "credit": "Ảnh: [//commons.wikimedia.org/wiki/User:Trantuonglam Trantuonglam / CC BY-SA 4.0"
+  },
+  "chua-bai-dinh": {
+   "src": "photos/places/chua-bai-dinh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "co-do-hoa-lu": {
+   "src": "photos/places/co-do-hoa-lu.jpg",
+   "credit": "Ảnh: nguoicodo ( thảo luận ) / Public domain"
+  },
+  "cau-vang": {
+   "src": "photos/places/cau-vang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cho-ben-thanh": {
+   "src": "photos/places/cho-ben-thanh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dinh-doc-lap": {
+   "src": "photos/places/dinh-doc-lap.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "dia-dao-cu-chi": {
+   "src": "photos/places/dia-dao-cu-chi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "nui-ba-den": {
+   "src": "photos/places/nui-ba-den.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "cho-noi-cai-rang": {
+   "src": "photos/places/cho-noi-cai-rang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "mui-ca-mau": {
+   "src": "photos/places/mui-ca-mau.jpg",
+   "credit": "Ảnh: Thanhminh2000 / CC BY-SA 4.0"
+  },
+  "chua-huong": {
+   "src": "photos/places/chua-huong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-mot-cot": {
+   "src": "photos/places/chua-mot-cot.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "chua-thien-mu": {
+   "src": "photos/places/chua-thien-mu.jpg",
+   "credit": "Ảnh: Lưu Ly / Public domain"
+  },
+  "thanh-co-quang-tri": {
+   "src": "photos/places/thanh-co-quang-tri.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thanh-nha-ho": {
+   "src": "photos/places/thanh-nha-ho.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "thanh-dia-my-son": {
+   "src": "photos/places/thanh-dia-my-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "fansipan": {
+   "src": "photos/places/fansipan.jpg",
+   "credit": "Ảnh: Viwikipediaorg / CC BY-SA 4.0"
+  },
+  "quan-the-danh-thang-trang-an": {
+   "src": "photos/places/dong-tien.jpg",
+   "credit": "Ảnh: Kien1980v ( thảo luận ) / Public domain"
+  },
+  "hang-son-doong": {
+   "src": "photos/places/hang-son-doong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "phu-quoc": {
+   "src": "photos/places/bai-sao.jpg",
+   "credit": "Ảnh: [//commons.wikimedia.org/wiki/User:Trantuonglam Trantuonglam / CC BY-SA 4.0"
+  },
+  "pho-co-ha-noi": {
+   "src": "photos/places/pho-co-ha-noi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "vinh-ha-long": {
+   "src": "photos/places/vinh-ha-long.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "den-hung": {
+   "src": "photos/places/den-hung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "do-thi-co-hoi-an": {
+   "src": "photos/places/do-thi-co-hoi-an.jpg",
+   "credit": "Ảnh: Crazy3108 / CC BY-SA 3.0"
+  }
+ },
+ "provinces": {
+  "Sơn La": {
+   "hero": {
+    "src": "photos/provinces/son-la.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/thac-dai-yem.jpg",
+     "credit": "Ảnh: ePi.Longo / CC BY-SA 2.0"
+    },
+    {
+     "src": "photos/places/ta-xua.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Điện Biên": {
+   "hero": {
+    "src": "photos/provinces/ien-bien.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/canh-dong-muong-thanh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Lai Châu": {
+   "hero": {
+    "src": "photos/provinces/lai-chau.jpg",
+    "credit": "Ảnh: Tannematica / CC BY 2.0"
+   },
+   "extras": [
+    {
+     "src": "photos/places/thac-cau-may-va-deo-o-quy-ho.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/bach-moc-luong-tu.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/pu-ta-leng.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Thái Nguyên": {
+   "hero": {
+    "src": "photos/provinces/thai-nguyen.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/vuon-quoc-gia-tam-dao.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ho-nui-coc.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Bắc Ninh": {
+   "hero": {
+    "src": "photos/provinces/bac-ninh.jpg",
+    "credit": "Ảnh: Bennguyennnnn / CC0"
+   },
+   "extras": [
+    {
+     "src": "photos/places/dinh-va-den-trau-lo.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-bo-da.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-bang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/lang-gom-phu-lang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-dan.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-dam.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Quảng Ninh": {
+   "hero": {
+    "src": "photos/provinces/quang-ninh.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/dinh-quan-lan.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-quynh-lam-dong-trieu.jpg",
+     "credit": "Ảnh: Yeudongtrieu / CC BY-SA 4.0"
+    },
+    {
+     "src": "photos/places/den-cua-ong.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-tra-co.jpg",
+     "credit": "Ảnh: Bùi Thế Tâm / CC BY-SA 4.0"
+    },
+    {
+     "src": "photos/places/ho-yen-lap.jpg",
+     "credit": "Ảnh: Handyhuy / CC BY-SA 3.0"
+    },
+    {
+     "src": "photos/places/nui-bai-tho.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Huế": {
+   "hero": {
+    "src": "photos/provinces/hue.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/nha-tho-va-mo-nguyen-cong-tru.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/van-mieu-hue.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/nui-ngu-binh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-tu-hieu.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dien-hon-chen.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/bai-bien-thuan-an.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Hà Tĩnh": {
+   "hero": {
+    "src": "photos/provinces/ha-tinh.jpg",
+    "credit": "Ảnh: Kieuminhtu / CC BY-SA 4.0"
+   },
+   "extras": [
+    {
+     "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/nha-tho-va-mo-nguyen-cong-tru.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-huong-tich.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Quảng Trị": {
+   "hero": {
+    "src": "photos/provinces/quang-tri.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/chua-hoang-phuc.jpg",
+     "credit": "Ảnh: Genghiskhan / CC BY-SA 4.0"
+    },
+    {
+     "src": "photos/places/nghia-trang-truong-son.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/vuon-quoc-gia-phong-nha-ke-bang.jpg",
+     "credit": "Ảnh: Genghiskhanviet / Public domain"
+    },
+    {
+     "src": "photos/places/cau-hien-luong.jpg",
+     "credit": "Ảnh: Rolf Müller ( User:Rolfmueller ) / CC BY-SA 3.0"
+    },
+    {
+     "src": "photos/places/dia-dao-vinh-moc.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dong-phong-nha.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Đà Nẵng": {
+   "hero": {
+    "src": "photos/provinces/a-nang.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/danh-lam-thang-canh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/danh-lam-thang-canh-ban-than-hon-mang-hon-dua.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ho-phu-ninh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thap-bang-an.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thap-dong-duong.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ban-dao-son-tra.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Khánh Hòa": {
+   "hero": {
+    "src": "photos/provinces/khanh-hoa.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/vinh-nha-trang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-phu-cang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dao-binh-ba.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/hon-tam.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/vinh-van-phong.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thap-hoa-lai.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Đồng Nai": {
+   "hero": {
+    "src": "photos/provinces/ong-nai.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/dinh-tan-lan.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thanh-co-bien-hoa.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/van-mieu-tran-bien.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thac-mai.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ho-tri-an.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thac-giang-dien.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "TP. Hồ Chí Minh": {
+   "hero": {
+    "src": "photos/provinces/tp-ho-chi-minh.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/dinh-binh-dong.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-binh-hoa.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-minh-huong-gia-thanh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-thang-tam.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-thong-tay-hoi.jpg",
+     "credit": "Ảnh: Xiaoao / CC BY-SA 3.0"
+    },
+    {
+     "src": "photos/places/mieu-nhi-phu.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Vĩnh Long": {
+   "hero": {
+    "src": "photos/provinces/vinh-long.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/dinh-long-thanh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-tan-ngai.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/cong-than-mieu-vinh-long.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-binh-hoa.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-tan-hoa.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-tan-thach.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Cà Mau": {
+   "hero": {
+    "src": "photos/provinces/ca-mau.jpg",
+    "credit": "Ảnh: Colalumbu / CC BY-SA 4.0"
+   },
+   "extras": [
+    {
+     "src": "photos/places/hon-da-bac.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/vuon-chim-bac-lieu.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-xiem-can.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thap-vinh-hung.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/mui-ca-mau.jpg",
+     "credit": "Ảnh: Thanhminh2000 / CC BY-SA 4.0"
+    }
+   ]
+  },
+  "An Giang": {
+   "hero": {
+    "src": "photos/provinces/an-giang.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/nui-da-dung.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/vuon-quoc-gia-u-minh-thuong.jpg",
+     "credit": "Ảnh: Mongnt / CC BY-SA 3.0"
+    },
+    {
+     "src": "photos/places/chua-giong-thanh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-tho-quan-co-tran-van-thanh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-vinh-nguon.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/nui-mo-so.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Cần Thơ": {
+   "hero": {
+    "src": "photos/provinces/can-tho.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/dinh-binh-thuy.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-nam-nha.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/lung-ngoc-hoang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-doi.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ben-ninh-kieu.jpg",
+     "credit": "Ảnh: Hung190596 / CC BY-SA 4.0"
+    },
+    {
+     "src": "photos/places/cho-noi-cai-rang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Lạng Sơn": {
+   "hero": {
+    "src": "photos/provinces/lang-son.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/chua-thanh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-ky-cung.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dong-tam-thanh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/nui-mau-son.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Tuyên Quang": {
+   "hero": {
+    "src": "photos/provinces/tuyen-quang.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/deo-ma-pi-leng.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dong-tien.jpg",
+     "credit": "Ảnh: Kien1980v ( thảo luận ) / Public domain"
+    },
+    {
+     "src": "photos/places/ruong-bac-thang-hoang-su-phi.jpg",
+     "credit": "Ảnh: NKSTTSSHNVN / CC BY-SA 4.0"
+    },
+    {
+     "src": "photos/places/thac-pac-ban.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/nui-doi-quan-ba.jpg",
+     "credit": "Ảnh: Lee Lio / CC BY 2.0"
+    },
+    {
+     "src": "photos/places/song-nho-que.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Lào Cai": {
+   "hero": {
+    "src": "photos/provinces/lao-cai.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/bai-da-co-sa-pa.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/deo-lung-lo.jpg",
+     "credit": "Ảnh: jihadv / CC BY 2.0"
+    },
+    {
+     "src": "photos/places/ho-thac-ba.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ruong-bac-thang-mu-cang-chai.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-cam.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-mau-lao-cai.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Cao Bằng": {
+   "hero": {
+    "src": "photos/provinces/cao-bang.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/dong-ngao.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thac-ban-gioc.jpg",
+     "credit": "Ảnh: Lê Minh Phát / CC BY 2.0"
+    },
+    {
+     "src": "photos/places/suoi-le-nin.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Phú Thọ": {
+   "hero": {
+    "src": "photos/provinces/phu-tho.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/den-mau-au-co.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-tranh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-tho-tang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/vuon-quoc-gia-xuan-son.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ho-hoa-binh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/tam-dao.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Hải Phòng": {
+   "hero": {
+    "src": "photos/provinces/hai-phong.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/chua-dau.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-thanh-mai.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-tranh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/hon-dau.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dao-bach-long-vi.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/vuon-quoc-gia-cat-ba.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Ninh Bình": {
+   "hero": {
+    "src": "photos/provinces/ninh-binh.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/dong-hoa-lu.jpg",
+     "credit": "Ảnh: Kien1980v at Vietnamese Wikipedia / Public domain"
+    },
+    {
+     "src": "photos/places/dong-thien-ton.jpg",
+     "credit": "Ảnh: Kien1980v at Vietnamese Wikipedia / Public domain"
+    },
+    {
+     "src": "photos/places/nui-canh-dieu.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/nui-non-nuoc.jpg",
+     "credit": "Ảnh: TruongHuynb ( thảo luận ) / Public domain"
+    },
+    {
+     "src": "photos/places/chua-nhat-tru.jpg",
+     "credit": "Ảnh: Kien1980v at Vietnamese Wikipedia / Public domain"
+    },
+    {
+     "src": "photos/places/chua-va-dong-ban-long.jpg",
+     "credit": "Ảnh: Bùi Thế Tâm / CC BY-SA 3.0"
+    }
+   ]
+  },
+  "Hưng Yên": {
+   "hero": {
+    "src": "photos/provinces/hung-yen.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/chua-tu-van.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-chuong.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-ngoc-que.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/pho-hien.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/van-mieu-xich-dang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Nghệ An": {
+   "hero": {
+    "src": "photos/provinces/nghe-an.jpg",
+    "credit": "Ảnh: Sama at Vietnamese Wikipedia / CC BY-SA 3.0"
+   },
+   "extras": [
+    {
+     "src": "photos/places/den-bach-ma.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-cuong.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-vua-dinh-tien-hoang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/nha-tho-va-mo-nguyen-cong-tru.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thanh-co-vinh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/bao-tang-xo-viet-nghe-tinh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Gia Lai": {
+   "hero": {
+    "src": "photos/provinces/gia-lai.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/bao-tang-quang-trung-va-dien-tho-tay-son.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thap-binh-lam.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thap-canh-tien.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thap-phu-loc.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dam-thi-nai.jpg",
+     "credit": "Ảnh: Lê Thy ( thảo luận ) / CC BY 3.0"
+    },
+    {
+     "src": "photos/places/thap-banh-it.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Đắk Lắk": {
+   "hero": {
+    "src": "photos/provinces/ak-lak.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/thac-dray-kpor.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/vinh-xuan-dai.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-lac-giao.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dam-o-loan.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ho-lak.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thac-dray-nur.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Lâm Đồng": {
+   "hero": {
+    "src": "photos/provinces/lam-ong.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/thac-gougah.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thac-lien-khuong.jpg",
+     "credit": "Ảnh: Tran Trong Nhan / CC BY-SA 4.0"
+    },
+    {
+     "src": "photos/places/thac-prenn.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thac-cam-ly.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/nui-ta-cu.jpg",
+     "credit": "Ảnh: Lê Thy at vi.wikipedia / Public domain"
+    },
+    {
+     "src": "photos/places/chua-co-thach.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Quảng Ngãi": {
+   "hero": {
+    "src": "photos/provinces/quang-ngai.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/den-tho-truong-dinh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-thien-an.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/nha-tho-chinh-toa-kon-tum.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ly-son.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/mang-den.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Tây Ninh": {
+   "hero": {
+    "src": "photos/provinces/tay-ninh.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/cho-long-hoa.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-go-ken.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/cua-khau-moc-bai.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-ton-thanh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/ho-dau-tieng.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/toa-thanh-tay-ninh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Hà Nội": {
+   "hero": {
+    "src": "photos/provinces/ha-noi.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/chua-tao-sach.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-tran-quoc.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-ba-da.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-ba-nanh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-bat-thap.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-ha.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Thanh Hóa": {
+   "hero": {
+    "src": "photos/provinces/thanh-hoa.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/den-tho-le-hoan.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/pu-luong.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/suoi-ca-cam-luong.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/den-ba-trieu.jpg",
+     "credit": "Ảnh: Mai Trung Dung / Public domain"
+    },
+    {
+     "src": "photos/places/lam-kinh.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/thanh-nha-ho.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  },
+  "Đồng Tháp": {
+   "hero": {
+    "src": "photos/provinces/ong-thap.jpg",
+    "credit": "Ảnh: Wikimedia Commons"
+   },
+   "extras": [
+    {
+     "src": "photos/places/dinh-dinh-yen.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/dinh-phu-huu.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-buu-hung.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/khu-du-lich-gao-giong.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/chua-vinh-trang.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    },
+    {
+     "src": "photos/places/go-thap.jpg",
+     "credit": "Ảnh: Wikimedia Commons"
+    }
+   ]
+  }
+ },
+ "food": {
+  "Cơm lam": {
+   "src": "photos/food/com-lam.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Sá sùng": {
+   "src": "photos/food/sa-sung.jpg",
+   "credit": "Ảnh: User:Vmenkov / CC BY-SA 3.0"
+  },
+  "Cù kỳ": {
+   "src": "photos/food/cu-ky.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Cơm hến": {
+   "src": "photos/food/com-hen.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Mực nhảy": {
+   "src": "photos/food/muc-nhay.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh bột lọc": {
+   "src": "photos/food/banh-bot-loc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh căn": {
+   "src": "photos/food/banh-can.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Mì Quảng": {
+   "src": "photos/food/mi-quang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Cao lầu": {
+   "src": "photos/food/cao-lau.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh canh": {
+   "src": "photos/food/banh-canh.jpg",
+   "credit": "Ảnh: Kham Tran - www.khamtran.com / CC BY 3.0"
+  },
+  "Bánh mì Sài Gòn": {
+   "src": "photos/food/banh-mi-sai-gon.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Lạp xưởng": {
+   "src": "photos/food/lap-xuong.jpg",
+   "credit": "Ảnh: kifo / CC BY-SA 2.0"
+  },
+  "Kẹo dừa": {
+   "src": "photos/food/keo-dua.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh xèo": {
+   "src": "photos/food/banh-xeo.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Khâu nhục": {
+   "src": "photos/food/khau-nhuc.jpg",
+   "credit": "Ảnh: Franchin at English Wikipedia / CC BY 2.5"
+  },
+  "Thịt trâu gác bếp": {
+   "src": "photos/food/thit-trau-gac-bep.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Mèn mén": {
+   "src": "photos/food/men-men.jpg",
+   "credit": "Ảnh: Phucphuc55055 / CC BY-SA 4.0"
+  },
+  "Cá thính": {
+   "src": "photos/food/ca-thinh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh gio": {
+   "src": "photos/food/banh-gio.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Chẩm chéo": {
+   "src": "photos/food/cham-cheo.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Thắng cố": {
+   "src": "photos/food/thang-co.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Thịt chua Thanh Sơn": {
+   "src": "photos/food/thit-chua-thanh-son.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Chè Shan tuyết": {
+   "src": "photos/food/che-shan-tuyet.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh khảo": {
+   "src": "photos/food/banh-khao.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Cơm cháy Ninh Bình": {
+   "src": "photos/food/com-chay-ninh-binh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Rượu Kim Sơn": {
+   "src": "photos/food/ruou-kim-son.jpg",
+   "credit": "Ảnh: Kien1980v ( thảo luận ) / Public domain"
+  },
+  "Gạo tám Hải Hậu": {
+   "src": "photos/food/gao-tam-hai-hau.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Kẹo cu đơ": {
+   "src": "photos/food/keo-cu-o.jpg",
+   "credit": "Ảnh: Lưu Ly at vi.wikipedia / Public domain"
+  },
+  "Bánh mướt": {
+   "src": "photos/food/banh-muot.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bún": {
+   "src": "photos/food/bun.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Mật ong": {
+   "src": "photos/food/mat-ong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh tráng": {
+   "src": "photos/food/banh-trang.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Cà phê Buôn Ma Thuột": {
+   "src": "photos/food/ca-phe-buon-ma-thuot.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Nem nướng": {
+   "src": "photos/food/nem-nuong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh tét": {
+   "src": "photos/food/banh-tet.jpg",
+   "credit": "Ảnh: CC BY-SA 2.0"
+  },
+  "Thốt nốt": {
+   "src": "photos/food/thot-not.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh chưng": {
+   "src": "photos/food/banh-chung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh đa cua": {
+   "src": "photos/food/banh-a-cua.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh cuốn Thanh Trì": {
+   "src": "photos/food/banh-cuon-thanh-tri.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Phở Hà Nội": {
+   "src": "photos/food/pho-ha-noi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Cốm làng Vòng": {
+   "src": "photos/food/com-lang-vong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh mì cay": {
+   "src": "photos/food/banh-mi-cay.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Chả rươi": {
+   "src": "photos/food/cha-ruoi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bún bò Huế": {
+   "src": "photos/food/bun-bo-hue.jpg",
+   "credit": "Ảnh: Kham Tran - www.khamtran.com / CC BY 3.0"
+  },
+  "Bánh đúc": {
+   "src": "photos/food/banh-uc.jpg",
+   "credit": "Ảnh: Flickr user: hongnhung106 ( https://www.flickr.com/photos/53 / CC BY 2.0"
+  },
+  "Bánh gai Tứ Trụ": {
+   "src": "photos/food/banh-gai-tu-tru.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh bèo": {
+   "src": "photos/food/banh-beo.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bưởi": {
+   "src": "photos/food/buoi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Gỏi": {
+   "src": "photos/food/goi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Hủ tiếu Mỹ Tho": {
+   "src": "photos/food/hu-tieu-my-tho.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh cống": {
+   "src": "photos/food/banh-cong.jpg",
+   "credit": "Ảnh: Seahen / CC BY-SA 3.0"
+  },
+  "Quýt hồng Lai Vung": {
+   "src": "photos/food/quyt-hong-lai-vung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Nem Lai Vung": {
+   "src": "photos/food/nem-lai-vung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Chè sen": {
+   "src": "photos/food/che-sen.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Muối tôm": {
+   "src": "photos/food/muoi-tom.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bánh cáy": {
+   "src": "photos/food/banh-cay.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Mãng cầu": {
+   "src": "photos/food/mang-cau.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  }
+ },
+ "culture": {
+  "Xòe Thái": {
+   "src": "photos/culture/xoe-thai.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Lễ hội Hoa Ban": {
+   "src": "photos/culture/le-hoi-hoa-ban.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Quan họ Bắc Ninh": {
+   "src": "photos/culture/quan-ho-bac-ninh.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Hội Lim": {
+   "src": "photos/culture/hoi-lim.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Hát chèo": {
+   "src": "photos/culture/hat-cheo.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Bài chòi": {
+   "src": "photos/culture/bai-choi.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Đờn ca tài tử": {
+   "src": "photos/culture/on-ca-tai-tu.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Chợ Bắc Hà": {
+   "src": "photos/culture/cho-bac-ha.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Hát then": {
+   "src": "photos/culture/hat-then.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Hát Xoan": {
+   "src": "photos/culture/hat-xoan.jpg",
+   "credit": "Ảnh: Tungdino1997 / CC BY-SA 4.0"
+  },
+  "Lễ hội Đền Hùng": {
+   "src": "photos/culture/le-hoi-en-hung.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Cồng chiêng": {
+   "src": "photos/culture/cong-chieng.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Văn hóa Óc Eo": {
+   "src": "photos/culture/van-hoa-oc-eo.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Ca trù": {
+   "src": "photos/culture/ca-tru.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Hội Gióng": {
+   "src": "photos/culture/hoi-giong.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Hát nhà tơ": {
+   "src": "photos/culture/hat-nha-to.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Múa rối nước": {
+   "src": "photos/culture/mua-roi-nuoc.jpg",
+   "credit": "Ảnh: Wikimedia Commons"
+  },
+  "Nhã nhạc cung đình": {
+   "src": "photos/culture/nha-nhac-cung-inh.jpg",
+   "credit": "Ảnh: Unknown author Unknown author / CC0"
+  }
+ }
+}

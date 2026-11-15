@@ -1,0 +1,20 @@
+{
+  "guide": {
+    "welcome": "guide/mai-welcome.png",
+    "ask": "guide/mai-ask.png",
+    "celebrate": "guide/mai-celebrate.png"
+  },
+  "places": {
+    "vinh-ha-long": "places/vinh-ha-long.png",
+    "do-thi-co-hoi-an": "places/hoi-an.png",
+    "thi-tran-sa-pa": "places/sapa.png",
+    "dong-phong-nha": "places/phong-nha.png"
+  },
+  "traveler": {
+    "selfie": "traveler/selfie.jpg",
+    "walk": "traveler/walk.jpg",
+    "culture": "traveler/culture.jpg",
+    "food": "traveler/food.jpg"
+  },
+  "credit": "Ảnh minh hoạ: Sắc Việt • Dữ liệu di tích: Wikipedia tiếng Việt (CC BY-SA)"
+}

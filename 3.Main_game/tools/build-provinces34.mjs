@@ -1,0 +1,134 @@
+// Builds js/provinces34.js from the MIT-licensed GIS dataset:
+// https://github.com/thanglequoc/vietnamese-provinces-database
+// 34 provinces, decrees 388/NQ-UBTVQH16 (effective 20/09/2026).
+import fs from 'node:fs/promises';
+
+const BASE = 'https://raw.githubusercontent.com/thanglequoc/vietnamese-provinces-database/master/json/geojson/';
+const PATHS = [
+  '01_ha_noi/01_ha_noi', '04_cao_bang/04_cao_bang', '08_tuyen_quang/08_tuyen_quang',
+  '11_dien_bien/11_dien_bien', '12_lai_chau/12_lai_chau', '14_son_la/14_son_la',
+  '15_lao_cai/15_lao_cai', '19_thai_nguyen/19_thai_nguyen', '20_lang_son/20_lang_son',
+  '22_quang_ninh/22_quang_ninh', '24_bac_ninh/24_bac_ninh', '25_phu_tho/25_phu_tho',
+  '31_hai_phong/31_hai_phong', '33_hung_yen/33_hung_yen', '37_ninh_binh/37_ninh_binh',
+  '38_thanh_hoa/38_thanh_hoa', '40_nghe_an/40_nghe_an', '42_ha_tinh/42_ha_tinh',
+  '44_quang_tri/44_quang_tri', '46_hue/46_hue', '48_da_nang/48_da_nang',
+  '51_quang_ngai/51_quang_ngai', '52_gia_lai/52_gia_lai', '56_khanh_hoa/56_khanh_hoa',
+  '66_dak_lak/66_dak_lak', '68_lam_dong/68_lam_dong', '75_dong_nai/75_dong_nai',
+  '79_ho_chi_minh/79_ho_chi_minh', '80_tay_ninh/80_tay_ninh', '82_dong_thap/82_dong_thap',
+  '86_vinh_long/86_vinh_long', '91_an_giang/91_an_giang', '92_can_tho/92_can_tho',
+  '96_ca_mau/96_ca_mau',
+];
+
+const WRITE = process.argv.includes('--write');
+const OUT = new URL('../js/provinces34.js', import.meta.url);
+// Offshore archipelagos (Trường Sa) would stretch the main map; keep coastal islands only.
+const LON_MAX = 109.65;
+const LAT_MIN = 8.3;
+
+function ringArea(ring) {
+  let s = 0;
+  for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
+    s += (ring[j][0] * ring[i][1]) - (ring[i][0] * ring[j][1]);
+  }
+  return Math.abs(s / 2);
+}
+
+function distToSeg(p, a, b) {
+  const dx = b[0] - a[0];
+  const dy = b[1] - a[1];
+  if (!dx && !dy) return Math.hypot(p[0] - a[0], p[1] - a[1]);
+  const t = Math.max(0, Math.min(1, ((p[0] - a[0]) * dx + (p[1] - a[1]) * dy) / (dx * dx + dy * dy)));
+  return Math.hypot(p[0] - (a[0] + t * dx), p[1] - (a[1] + t * dy));
+}
+
+function simplify(points, tol) {
+  if (points.length <= 4) return points;
+  let maxD = 0;
+  let index = 0;
+  const first = points[0];
+  const last = points[points.length - 1];
+  for (let i = 1; i < points.length - 1; i++) {
+    const d = distToSeg(points[i], first, last);
+    if (d > maxD) { maxD = d; index = i; }
+  }
+  if (maxD <= tol) return [first, last];
+  const left = simplify(points.slice(0, index + 1), tol);
+  const right = simplify(points.slice(index), tol);
+  return left.slice(0, -1).concat(right);
+}
+
+function roundRing(ring) {
+  const out = [];
+  let px = null, py = null;
+  for (const [x, y] of ring) {
+    const rx = Math.round(x * 1e4) / 1e4;
+    const ry = Math.round(y * 1e4) / 1e4;
+    if (rx === px && ry === py) continue;
+    out.push([rx, ry]);
+    px = rx; py = ry;
+  }
+  if (out.length) {
+    out[out.length - 1] = [out[0][0], out[0][1]];
+  }
+  return out;
+}
+
+async function fetchProvince(path) {
+  const url = BASE + path + '.geojson';
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(url + ' -> ' + res.status);
+  const geo = await res.json();
+  const feat = geo.features[0];
+  const props = feat.properties;
+  const rings = [];
+  const polys = feat.geometry.type === 'MultiPolygon' ? feat.geometry.coordinates : [feat.geometry.coordinates];
+  for (const poly of polys) {
+    const outer = poly[0];
+    if (!outer || outer.length < 4) continue;
+    if (ringArea(outer) < 0.0002) continue;
+    const box = outer.reduce((b, [x, y]) => {
+      b.x0 = Math.min(b.x0, x); b.x1 = Math.max(b.x1, x);
+      b.y0 = Math.min(b.y0, y); b.y1 = Math.max(b.y1, y);
+      return b;
+    }, { x0: 999, x1: -999, y0: 999, y1: -999 });
+    const cx = (box.x0 + box.x1) / 2;
+    const cy = (box.y0 + box.y1) / 2;
+    if (cx > LON_MAX || cy < LAT_MIN) continue;
+    const kept = outer.map(([lon, lat]) => [lon, lat]);
+    if (kept.length < 4 || ringArea(kept) < 0.0002) continue;
+    const simple = roundRing(simplify(kept, 0.0022));
+    if (simple.length >= 4) rings.push(simple);
+  }
+  return { code: props.code, name: props.name, nameEn: props.nameEn || '', area: Math.round(props.areaKm2 || 0), rings };
+}
+
+const rows = [];
+for (const path of PATHS) {
+  const row = await fetchProvince(path);
+  rows.push(row);
+  console.log(row.code, row.name, 'rings', row.rings.length, 'pts', row.rings.reduce((a, r) => a + r.length, 0));
+}
+rows.sort((a, b) => a.code.localeCompare(b.code));
+
+const bounds = rows.reduce((b, row) => {
+  for (const ring of row.rings) for (const [x, y] of ring) {
+    b.minX = Math.min(b.minX, x); b.maxX = Math.max(b.maxX, x);
+    b.minY = Math.min(b.minY, y); b.maxY = Math.max(b.maxY, y);
+  }
+  return b;
+}, { minX: 999, maxX: -999, minY: 999, maxY: -999 });
+console.log('bounds', bounds);
+
+const body = rows.map((r) => JSON.stringify({ c: r.code, n: r.name, e: r.nameEn, a: r.area, g: r.rings })).join(',\n');
+const js = `/* Generated by tools/build-provinces34.mjs — do not edit by hand.
+   Administrative boundaries: thanglequoc/vietnamese-provinces-database (MIT),
+   following decree 388/NQ-UBTVQH16. */
+window.PROVINCES34 = [
+${body}
+];
+`;
+console.log('output bytes', Buffer.byteLength(js));
+if (WRITE) {
+  await fs.writeFile(OUT, js);
+  console.log('wrote', OUT.pathname);
+}
